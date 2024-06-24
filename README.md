@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enrique Sabariego</h1>
 <h3 align="center">A passionate frontend developer from the south of Spain</h3>
 
-![Texto alternativo](https://media.licdn.com/dms/image/D4D16AQFfUTLyTGfUyw/profile-displaybackgroundimage-shrink_350_1400/0/1707654779446?e=1714003200&v=beta&t=56H7fW_U6MFtnCUpRtxsL9PoDU8-KGZaWLIJQ8UsoqM)
-
 - 🔭 I’m currently working on **Dark POS** [https://www.darkpos.com/](https://darkpos.com/)
 
-- 🌱 I’m currently learning **React Native, Redux, MongoDB, GraphQL**
+- - 👨‍💻 All of my projects are available at [https://portfolioes.vercel.app/](https://portfolioes.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolioes.vercel.app/](https://portfolioes.vercel.app/)
+- 🌱 I’m currently learning **React Native, Redux, MongoDB, GraphQL**
 
 - 💬 Ask me about **React, Express, NodeJS, MySQL**
 
