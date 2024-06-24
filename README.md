@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dark POS** [https://www.darkpos.com/](https://darkpos.com/)
 
-- - 👨‍💻 All of my projects are available at [https://portfolioes.vercel.app/](https://portfolioes.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolioes.vercel.app/](https://portfolioes.vercel.app/)
 
 - 🌱 I’m currently learning **React Native, Redux, MongoDB, GraphQL**
 
