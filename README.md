@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Enrique Sabariego</h1>
-<h3 align="center">A passionate frontend developer from the south of Spain</h3>
+<h1 align="center">Hi 👋 I'm Enrique Sabariego</h1>
+<h3 align="center">A passionate software developer from the south of Spain</h3>
 
 - 🔭 I’m currently working on **Dark POS** [https://www.darkpos.com/](https://darkpos.com/)
 
